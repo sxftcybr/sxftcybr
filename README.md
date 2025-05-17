@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/sxft/logo/raw/main/sxft-icon-purple.png" alt="Sxft Logo" width="120" />
+  <img src="https://github.com/sxftcybr/sxftcybr/raw/logo.png" alt="Sxft Logo" width="120" />
 </p>
 
 ### 🔍 What We Do
