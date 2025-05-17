@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/sxftcybr/sxftcybr/raw/logo.png" alt="Sxft Logo" width="120" />
+  <img src="https://github.com/sxftcybr/sxftcybr/logo.png" alt="Sxft Logo" width="120" />
 </p>
 
 ### 🔍 What We Do
@@ -28,15 +28,15 @@
 
 ### 🛠️ Tools & Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-024873?style=flat-square\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-306998?style=flat-square\&logo=python)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square\&logo=javascript)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnu-bash)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square\&logo=python)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square\&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square\&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git)
 
 ---
 
 <p align="center">
-  Crafted with &#10084;&#65039; by **Alex U.** & the Sxft team.
+  Crafted with &#10084;&#65039; by AlexutzuSoft & the Sxft team.
 </p>
