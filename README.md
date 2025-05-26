@@ -4,10 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/212114953?v=4" alt="Sxft Logo" width="120" />
-</p>
-
 ### 🔍 What We Do
 
 * **Research & Development:** Cutting‑edge exploits, hardware tools, and firmware analysis.
